@@ -1,0 +1,26 @@
+trigger:
+- main
+
+pool:
+  name: Default  # Self-hosted agent pool
+
+variables:
+  buildConfiguration: 'Release'
+
+steps:
+- task: UseDotNet@2
+  inputs:
+    packageType: 'sdk'
+    version: '9.0.x'  # Your .NET version
+
+- script: dotnet build --configuration $(buildConfiguration)
+  displayName: 'Build the project'
+
+- script: dotnet publish -c $(buildConfiguration) -o $(Build.ArtifactStagingDirectory)
+  displayName: 'Publish the project'
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'drop'
+    publishLocation: 'Container'
