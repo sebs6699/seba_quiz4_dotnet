@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Sebas\\OneDrive\\Desktop\\Centennial_College\\DevOps\\Quizz4App\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCE7546-542F-4691-BF34-AEEC7862BC4E}|Quizz4App\\Quizz4App.csproj|c:\\users\\sebas\\onedrive\\desktop\\centennial_college\\devops\\quizz4app\\quizz4app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBCE7546-542F-4691-BF34-AEEC7862BC4E}|Quizz4App\\Quizz4App.csproj|solutionrelative:quizz4app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCE7546-542F-4691-BF34-AEEC7862BC4E}|Quizz4App\\Quizz4App.csproj|c:\\users\\sebas\\onedrive\\desktop\\centennial_college\\devops\\quizz4app\\quizz4app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCE7546-542F-4691-BF34-AEEC7862BC4E}|Quizz4App\\Quizz4App.csproj|solutionrelative:quizz4app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sebas\\OneDrive\\Desktop\\Centennial_College\\DevOps\\Quizz4App\\Quizz4App\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Quizz4App\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sebas\\OneDrive\\Desktop\\Centennial_College\\DevOps\\Quizz4App\\Quizz4App\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Quizz4App\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T18:00:56.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\OneDrive\\Desktop\\Centennial_College\\DevOps\\Quizz4App\\Quizz4App\\Program.cs",
+              "RelativeDocumentMoniker": "Quizz4App\\Program.cs",
+              "ToolTip": "C:\\Users\\Sebas\\OneDrive\\Desktop\\Centennial_College\\DevOps\\Quizz4App\\Quizz4App\\Program.cs",
+              "RelativeToolTip": "Quizz4App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:00:34.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

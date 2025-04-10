@@ -32,3 +32,4 @@ C:\Users\Sebas\OneDrive\Desktop\Centennial_College\DevOps\Quizz4App\Quizz4App\ob
 C:\Users\Sebas\OneDrive\Desktop\Centennial_College\DevOps\Quizz4App\Quizz4App\obj\Debug\net8.0\Quizz4App.pdb
 C:\Users\Sebas\OneDrive\Desktop\Centennial_College\DevOps\Quizz4App\Quizz4App\obj\Debug\net8.0\Quizz4App.genruntimeconfig.cache
 C:\Users\Sebas\OneDrive\Desktop\Centennial_College\DevOps\Quizz4App\Quizz4App\obj\Debug\net8.0\ref\Quizz4App.dll
+C:\Users\Sebas\OneDrive\Desktop\Centennial_College\DevOps\Quizz4App\Quizz4App\obj\Debug\net8.0\Quizz4App.sourcelink.json
